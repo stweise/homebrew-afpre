@@ -1,5 +1,5 @@
 class Afpre < Formula
-  desc "CLI for the AWS Federation Proxy found at https://github.com/ImmobilienScout24/afp-cli"
+  desc "CLI for the AWS Federation Proxy found at https://github.com/ImmobilienScout24/afp"
   homepage "https://github.com/leflamm/afpre"
   url "https://github.com/leflamm/afpre.git", :tag => "0.9.19"
   depends_on "jq"
