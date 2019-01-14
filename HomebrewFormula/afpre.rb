@@ -1,4 +1,4 @@
-class Ethereum < Formula
+class Afpre < Formula
   homepage 'https://github.com/leflamm/afpre'
   url 'https://github.com/leflamm/afpre.git', :tag => '0.9.19'
 
